@@ -3,7 +3,7 @@
 This Guthub repository has all the projects which I've worked on Deep Learning.   
 
 1. Image recognition: This script uses the keras library to check and see if the image proovided is similar to the images present in the keras library collection. Following files are present:    
-                            - Image_Recognition.ipynb.   
+                            - Image_Recognition.ipynb - python script for this project.   
 
 1. Recurrent Neural Network: This script uses Recurrent Neural Network Regression model to predict the trend in Facebook's stock price. Following files are part of this project:    
                   - RNN.ipynb - python script for this project.   
